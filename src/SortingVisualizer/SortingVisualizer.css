@@ -1,0 +1,43 @@
+.array-container {
+  position: absolute;
+  right: 40px;
+  bottom: 10px;
+  margin-left: 40px;
+}
+
+.array-bar {
+  width: 10px;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.Button {
+  margin: 3px;
+  display: inline-block;
+  outline: 0;
+  cursor: pointer;
+  border: none;
+  padding: 0 56px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 7px;
+  background-color: #0070f3;
+  color: white;
+  font-weight: 400;
+  font-size: 16px;
+  box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
+  transition: background 0.2s ease,color 0.2s ease,box-shadow 0.2s ease;
+}
+
+.Button:hover{
+  background: rgba(0,118,255,0.9);
+  box-shadow: 0 6px 20px rgb(0 118 255 / 23%);
+}
+
+#gen {
+  background-color: darkorange;
+}
+
+.small {
+  font-family: Cambria Math, Times, serif;
+}
