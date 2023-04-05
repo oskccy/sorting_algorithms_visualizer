@@ -36,13 +36,13 @@ Allows users to choose from three sorting algorithms: Merge Sort, Bubble Sort, a
 1. Run the application: npm start.
 2. Open your web browser and navigate to http://localhost:3000.
 ## Algorithms
-### Merge Sort
+#### Merge Sort
 Merge sort is a divide-and-conquer algorithm that recursively divides an array into halves, sorts each half, and then merges the sorted halves. It has a time complexity of O(n*log(n)).
 
-### Bubble Sort
+#### Bubble Sort
 Bubble sort repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. It has a time complexity of O(n^2).
 
-### Selection Sort
+#### Selection Sort
 Selection sort repeatedly finds the minimum element from the unsorted part of the array and swaps it with the first element of the unsorted part. It has a time complexity of O(n^2).
 
 ## Contributing
