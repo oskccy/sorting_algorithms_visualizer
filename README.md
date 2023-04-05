@@ -4,8 +4,6 @@ By: Oscar Spencer
 
 A web application that visualizes sorting algorithms using React.
 
-Sorting Visualizer Screenshot
-
 ## Table of Contents
 
 - Introduction
