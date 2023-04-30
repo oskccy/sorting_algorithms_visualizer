@@ -1,4 +1,4 @@
-# sorting_algorithms_visualizer_project
+# sorting_algorithms_visualizer
 
 By: Oscar Spencer
 
@@ -27,7 +27,7 @@ Allows users to choose from three sorting algorithms: Merge Sort, Bubble Sort, a
 - JavaScript
 - HTML/CSS
 ## Installation
-1. Clone the repository: git clone https://github.com/oskccy/sorting_algorithms_visualizer_project
+1. Clone the repository: git clone https://github.com/oskccy/sorting_algorithms_visualizer
 2. Navigate to the project directory: cd sorting-visualizer.
 3. Install the required dependencies: npm install.
 ## Usage
