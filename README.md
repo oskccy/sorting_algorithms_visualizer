@@ -1,4 +1,4 @@
-# sorting_algorithms_visualizer
+# Sorting Algorithms Visualizer
 
 By: Oscar Spencer
 
