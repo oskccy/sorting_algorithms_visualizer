@@ -6,14 +6,14 @@ A web application that visualizes sorting algorithms using React.
 
 ## Table of Contents
 
-- Introduction
-- Features
-- Technologies Used
-- Installation
-- Usage
-- Algorithms
-- Contributing
-- License
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Algorithms](#algorithms)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 Sorting Visualizer is a web application built with React that visualizes various sorting algorithms in real-time. It allows users to generate a new array, and select from a range of sorting algorithms to watch how they operate on the array.
