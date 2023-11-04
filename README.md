@@ -1,7 +1,5 @@
 # Sorting Algorithms Visualizer
 
-By: Oscar Spencer
-
 A web application that visualizes sorting algorithms using React.
 
 ## Table of Contents
